@@ -2,7 +2,7 @@
 
 Create pixel art on the GitHub contributions graph
 
-![nikhilweee]([https://th.bing.com/th/id/OIP.ka9nr1owaHzO1wLY5J59eAHaDD?rs=1&pid=ImgDetMain])
+![nikhilweee](https://th.bing.com/th/id/OIP.ka9nr1owaHzO1wLY5J59eAHaDD?rs=1&pid=ImgDetMain)
 
 ### Acknowledgements
 [Dan Bader](https://twitter.com/dbader_org)'s [blog post](https://dbader.org/blog/monochrome-font-rendering-with-freetype-and-python) helped me create stencil matrix from TTF fonts. Thank you Dan!
